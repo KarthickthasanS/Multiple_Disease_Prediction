@@ -1,4 +1,3 @@
-I apologize for the misunderstanding. Here's the full content as a Markdown file:
 
 ```markdown
 # Multiple Disease Prediction System Web App
